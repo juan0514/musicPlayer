@@ -22,7 +22,4 @@ function getData(url) {
 	});
 }
 
-//let data = require('../data.json')
-
-
-getData("../mock/data.json");
+getData("./mock/data.json");
